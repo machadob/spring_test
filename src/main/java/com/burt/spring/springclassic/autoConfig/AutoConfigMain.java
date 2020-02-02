@@ -1,5 +1,6 @@
-package com.burt.spring.springclassic.AutoConfig;
+package com.burt.spring.springclassic.autoConfig;
 
+import com.burt.spring.springclassic.autoConfig.cd.CDPlayerConfig;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

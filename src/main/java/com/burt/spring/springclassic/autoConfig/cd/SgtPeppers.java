@@ -1,4 +1,4 @@
-package com.burt.spring.springclassic.AutoConfig;
+package com.burt.spring.springclassic.autoConfig.cd;
 
 import org.springframework.stereotype.Component;
 

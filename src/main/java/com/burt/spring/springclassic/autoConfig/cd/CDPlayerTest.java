@@ -1,7 +1,7 @@
-package com.burt.spring.springclassic.AutoConfig;
+package com.burt.spring.springclassic.autoConfig.cd;
 
 import static org.hibernate.validator.internal.util.Contracts.assertNotNull;
-import static org.junit.Assert.*;
+
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
