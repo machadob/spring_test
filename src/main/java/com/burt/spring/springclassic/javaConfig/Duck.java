@@ -1,4 +1,4 @@
-package com.burt.spring.springclassic.autoConfig.animal;
+package com.burt.spring.springclassic.javaConfig;
 
 import org.springframework.stereotype.Component;
 

@@ -4,3 +4,7 @@ Setter based injection (Auto-wired)
 
 Profiles (Also, default profile)
 @Configuration (Use this to create Beans)
+
+  @Configuration
+  @ComponentScan(basePackages={"pkg1", "pkg2"})
+  public class MyConfig {}
