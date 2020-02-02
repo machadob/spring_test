@@ -3,3 +3,4 @@ Constructor based injection (Auto-wired)
 Setter based injection (Auto-wired)
 
 Profiles (Also, default profile)
+@Configuration (Use this to create Beans)
